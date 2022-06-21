@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7374064307",
+    "project_id": "busca-cep-8a3e0",
+    "storage_bucket": "busca-cep-8a3e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7374064307:android:066166d55d97f24f76fec6",
+        "android_client_info": {
+          "package_name": "com.thiagodantas.teste_busca_cep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7374064307-rohpsjec5943pjfj6tbvac6olshr11ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN8DxdgffxnBXewcVU5AMxq4I0tsIsmWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7374064307-rohpsjec5943pjfj6tbvac6olshr11ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
